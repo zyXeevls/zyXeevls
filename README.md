@@ -66,7 +66,7 @@ I love exploring new tech, working on real-world school projects, and continuous
 
 ##  GitHub Trophies
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=zyxevls&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=zyxevls&theme=tokyonight&margin-w=15&title=MultiLanguage,Repositories,Commits,Followers,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
