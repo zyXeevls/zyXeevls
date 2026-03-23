@@ -4,15 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&vCenter=true&width=600&lines=16+y%2Fo+Software+Engineer+%26+Tech+Enthusiast;Creative+UI%2FUX+Designer;Building+clean+and+modern+web+interfaces!)](https://git.io/typing-svg)
 
-### 📡 Live Activity (Real-time Status)
+### Activity 
 <p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Currently&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/878845101261074493&color=38B2AC&logo=discord&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users//stats/last_7_days&color=3178C6&logo=visual-studio-code&logoColor=white&default_value=0%20hrs" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/zyxevls/stats/last_7_days&color=3178C6&logo=visual-studio-code&logoColor=white&default_value=Logging%20Data..." />
 
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Listening&query=$.data.activities[0].details&url=https://api.lanyard.rest/v1/users/878845101261074493&color=FF0000&logo=youtubemusic&logoColor=white&default_value=Silence" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Listening&query=$.data.activities[1].details&url=https://api.lanyard.rest/v1/users/878845101261074493&color=FF0000&logo=youtubemusic&logoColor=white&default_value=Silence" />
+
+  <img src="https://komarev.com/ghpvc/?username=zyxevls&style=for-the-badge&color=blueviolet&label=PROFILE%20VIEWS" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Total%20Commits&query=$.total&url=https://github-readme-stats.vercel.app/api?username=zyxevls&hide=stars,prs,issues,contribs&format=json&color=orange&logo=github" />
 
   <img src="https://img.shields.io/badge/Loc-Indonesia-EE2737?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Main%20OS-Windows%2010-0078D4?style=for-the-badge&logo=windows-10&logoColor=white" />
 </p>
 
 ---
