@@ -58,7 +58,7 @@ I love exploring new tech, working on real-world school projects, and continuous
 ###  Creative & Design
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,pr,ae" />
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,pr,ae" />
   </a>
 </p>
 
