@@ -65,7 +65,7 @@ Currently sharpening my skills in:
 </p>
 
 <p >
-  <img src="https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight" />
 </p>
 
 ## 💰 Support Me
