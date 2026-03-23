@@ -58,7 +58,7 @@ Currently sharpening my skills in:
 
 ![](https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true) 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyxevls&theme=tokyonight&hide_border=true&layout=compact" height="200">
   <img src="https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true" height="200">
 </p>
