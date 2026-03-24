@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Currently&labelColor=1a1b26&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/878845101261074493&color=7aa2f7&logo=discord&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&labelColor=1a1b26&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/zyxevls/stats/last_7_days&color=bb9af7&logo=wakatime&logoColor=bb9af7&default_value=Logging%20Data..." />
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Listening&labelColor=1a1b26&query=$.data.activities[0].details&url=https://api.lanyard.rest/v1/users/878845101261074493&color=f7768e&logo=youtubemusic&logoColor=f7768e&default_value=Silence" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&labelColor=1a1b26&query=$.public_repos&url=https://api.github.com/users/zyxevls&color=bb9af7&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=zyxevls&style=for-the-badge&label=PROFILE%20VIEWS&labelColor=1a1b26&color=565f89" />
   <img src="https://img.shields.io/badge/Loc-Indonesia-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=googlemaps&logoColor=9ece6a" />
   <img src="https://img.shields.io/badge/Database-Postgres-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=postgresql&logoColor=7aa2f7" />
