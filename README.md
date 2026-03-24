@@ -74,7 +74,7 @@ I love exploring new tech, working on real-world school projects, and continuous
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyxevls&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800&v=123" height="190" alt="Top Languages"/>
-<img src="https://streak-stats.demolab.com?user=zyxevls&theme=tokyonight&hide_border=true&cache_seconds=1800&v=123" height="190" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zyxevls&theme=tokyonight&hide_border=true&cache_seconds=1800&v=123" height="190" alt="GitHub Streak"/>
 </p>
 
 <p>
