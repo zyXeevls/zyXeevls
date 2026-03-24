@@ -7,17 +7,18 @@
 ### Activity 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Currently&labelColor=5865F2&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/878845101261074493&color=73daca&logo=discord&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&labelColor=00adff&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/zyxevls/stats/last_7_days&color=7aa2f7&logo=visual-studio-code&logoColor=white&default_value=Logging%20Data..." />
-
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Listening&labelColor=FF0000&query=$.data.activities[0].details&url=https://api.lanyard.rest/v1/users/878845101261074493&color=bb9af7&logo=youtubemusic&logoColor=white&default_value=Silence" />
-
-  <img src="https://komarev.com/ghpvc/?username=zyxevls&style=for-the-badge&label=PROFILE%20VIEWS&labelColor=24292e&color=9d7cd8" />
-
-  <img src="https://img.shields.io/badge/Loc-Indonesia-2ac3de?style=for-the-badge&labelColor=34A853&logo=googlemaps&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Main%20OS-Windows%2011-41a6b5?style=for-the-badge&labelColor=0078D4&logo=windows-11&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Currently&labelColor=1a1b26&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/878845101261074493&color=7aa2f7&logo=discord&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&labelColor=1a1b26&query=$.data.grand_total.text&url=https://wakatime.com/api/v1/users/zyxevls/stats/last_7_days&color=bb9af7&logo=wakatime&logoColor=bb9af7&default_value=Logging%20Data..." />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Listening&labelColor=1a1b26&query=$.data.activities[0].details&url=https://api.lanyard.rest/v1/users/878845101261074493&color=f7768e&logo=youtubemusic&logoColor=f7768e&default_value=Silence" />
+  <img src="https://komarev.com/ghpvc/?username=zyxevls&style=for-the-badge&label=PROFILE%20VIEWS&labelColor=1a1b26&color=565f89" />
+  <img src="https://img.shields.io/badge/Loc-Indonesia-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=googlemaps&logoColor=9ece6a" />
+  <img src="https://img.shields.io/badge/Database-Postgres-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=postgresql&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Cache-Redis-f7768e?style=for-the-badge&labelColor=1a1b26&logo=redis&logoColor=f7768e" />
+  <img src="https://img.shields.io/badge/Container-Docker-7dcfff?style=for-the-badge&labelColor=1a1b26&logo=docker&logoColor=7dcfff" />
+  <img src="https://img.shields.io/badge/IDE-VSCode-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=visualstudiocode&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Shell-Bash-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=gnubash&logoColor=9ece6a" />
+  <img src="https://img.shields.io/badge/Main%20OS-Windows%2010-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=windows&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/OS-Archlinux-7dcfff?style=for-the-badge&labelColor=1a1b26&logo=archlinux&logoColor=7dcfff" />
 </p>
 
 ---
