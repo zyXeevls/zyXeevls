@@ -1,5 +1,6 @@
 # 👋 Hi, I'm **Muhamad Jaelani**
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&vCenter=true&width=600&lines=16+y%2Fo+Software+Engineer+%26+Tech+Enthusiast;Creative+UI%2FUX+Designer;Building+clean+and+modern+web+interfaces!)](https://git.io/typing-svg)
 
 ### Activity 
