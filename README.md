@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&vCenter=true&width=600&lines=16+y%2Fo+Software+Engineer+%26+Tech+Enthusiast;Creative+UI%2FUX+Designer;Building+clean+and+modern+web+interfaces!)](https://git.io/typing-svg)
 
 ### Activity 
+
  
 <p align="left">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Currently&labelColor=1a1b26&query=$.data.discord_status&url=https://api.lanyard.rest/v1/users/878845101261074493&color=7aa2f7&logo=discord&logoColor=7aa2f7" />
