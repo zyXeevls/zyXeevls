@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Container-Docker-7dcfff?style=for-the-badge&labelColor=1a1b26&logo=docker&logoColor=7dcfff" />
   <img src="https://img.shields.io/badge/IDE-VSCode-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=visualstudiocode&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Shell-Bash-9ece6a?style=for-the-badge&labelColor=1a1b26&logo=gnubash&logoColor=9ece6a" />
-  <img src="https://img.shields.io/badge/Main%20OS-Windows%2010-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=windows&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Main%20OS-Windows%2010-7aa2f7?style=for-the-badge&labelColor=1a1b26&logo=linux&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/OS-Archlinux-7dcfff?style=for-the-badge&labelColor=1a1b26&logo=archlinux&logoColor=7dcfff" />
 </p>
 
